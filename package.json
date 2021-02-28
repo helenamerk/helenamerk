@@ -1,0 +1,19 @@
+{
+  "name": "helenamerk",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenamerk/helenamerk.git"
+  },
+  "author": "Helena Merk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenamerk/helenamerk/issues"
+  },
+  "homepage": "https://github.com/helenamerk/helenamerk#readme"
+}
